@@ -1,5 +1,5 @@
-# Using Stacks to Arrange Views
+# Transcribing Speech to Text
 
 ## Completed Project
 
-Explore the completed project for [Using Stacks to Arrange Views](https://developer.apple.com/tutorials/app-dev-training/using-stacks-to-arrange-views).
+Explore the completed project for [Transcribing Speech to Text](https://developer.apple.com/tutorials/app-dev-training/transcribing-speech-to-text).
